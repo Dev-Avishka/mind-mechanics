@@ -1,0 +1,49 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 1rem;
+    background-color: #f0f0f0;
+    text-align: center;
+  }
+  
+  .heading {
+    font-size: 1.5rem; /* Adjusted for mobile screens */
+    margin-bottom: 1rem;
+    color: #333;
+  }
+  
+  .input {
+    width: 90%; /* Full width on mobile with some margin */
+    max-width: 400px;
+    padding: 0.8rem;
+    margin-bottom: 1rem;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    font-size: 1rem;
+  }
+  
+  .button {
+    width: 90%; /* Same width as input for consistency */
+    max-width: 400px;
+    padding: 0.8rem;
+    border: none;
+    background-color: #4caf50;
+    color: white;
+    font-size: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .button:hover {
+    background-color: #45a049;
+  }
+  
+  .button:disabled {
+    background-color: #aaa;
+    cursor: not-allowed;
+  }
+  
