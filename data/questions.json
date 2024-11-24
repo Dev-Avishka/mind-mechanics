@@ -85,7 +85,7 @@
       "Kalahari Desert"
     ],
     "correct_answer": "Antarctic Desert",
-    "active": true
+    "active": false
   },
   {
     "id": 9,
@@ -118,7 +118,7 @@
       "Indonesia"
     ],
     "correct_answer": "China",
-    "active": false
+    "active": true
   },
   {
     "id": 12,
@@ -129,6 +129,6 @@
       "Dollar"
     ],
     "correct_answer": "Yen",
-    "active": false
+    "active": true
   }
 ]
