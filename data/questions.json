@@ -8,7 +8,7 @@
       "Wrong Answer 3"
     ],
     "correct_answer": "Correct Answer",
-    "active": false
+    "active": true
   },
   {
     "id": 2,
@@ -19,7 +19,7 @@
       "Incorrect 3"
     ],
     "correct_answer": "Right Answer",
-    "active": false
+    "active": true
   },
   {
     "id": 3,
@@ -30,7 +30,7 @@
       "Madrid"
     ],
     "correct_answer": "Paris",
-    "active": false
+    "active": true
   },
   {
     "id": 4,
@@ -41,7 +41,7 @@
       "Lhotse"
     ],
     "correct_answer": "Mount Everest",
-    "active": false
+    "active": true
   },
   {
     "id": 5,
@@ -118,7 +118,7 @@
       "Indonesia"
     ],
     "correct_answer": "China",
-    "active": true
+    "active": false
   },
   {
     "id": 12,
@@ -129,6 +129,6 @@
       "Dollar"
     ],
     "correct_answer": "Yen",
-    "active": true
+    "active": false
   }
 ]

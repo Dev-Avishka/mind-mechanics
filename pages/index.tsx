@@ -33,7 +33,7 @@ const Home = () => {
       <button
         onClick={handleStart}
         className={styles.button}
-        disabled={!name.trim()} /* Disable button if input is empty */
+        disabled={!name.trim()} 
       >
        {message}
       </button>
