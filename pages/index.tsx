@@ -22,6 +22,7 @@ const Home = () => {
   
   return (
     <div className={styles.container}>
+      <meta name="google-adsense-account" content="ca-pub-1934250322552865"></meta>
       <h1 className={styles.heading}>Welcome to the Quiz!</h1>
       <input
         type="text"
