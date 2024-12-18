@@ -1,134 +1,332 @@
 [
   {
     "id": 1,
-    "question": "Sample question?",
+    "question": "What is dopamine commonly known as?",
     "incorrect_answers": [
-      "Wrong Answer 1",
-      "Wrong Answer 2",
-      "Wrong Answer 3"
+      "Mood stabilizer",
+      "Natural painkiller",
+      "Love hormone"
     ],
-    "correct_answer": "Correct Answer",
+    "correct_answer": "Reward chemical",
     "active": true
   },
   {
     "id": 2,
-    "question": "Another question?",
+    "question": "Which neurotransmitter acts as the body's natural painkiller?",
     "incorrect_answers": [
-      "Incorrect 1",
-      "Incorrect 2",
-      "Incorrect 3"
+      "Serotonin",
+      "Dopamine",
+      "Oxytocin"
     ],
-    "correct_answer": "Right Answer",
+    "correct_answer": "Endorphins",
     "active": true
   },
   {
     "id": 3,
-    "question": "What is the capital of France?",
+    "question": "What is serotonin known as?",
     "incorrect_answers": [
-      "London",
-      "Berlin",
-      "Madrid"
+      "Reward chemical",
+      "Love hormone",
+      "Painkiller"
     ],
-    "correct_answer": "Paris",
+    "correct_answer": "Mood stabilizer",
     "active": true
   },
   {
     "id": 4,
-    "question": "What is the highest mountain in the world?",
+    "question": "Which neurotransmitter is called the love hormone?",
     "incorrect_answers": [
-      "K2",
-      "Kangchenjunga",
-      "Lhotse"
+      "Serotonin",
+      "Dopamine",
+      "Endorphins"
     ],
-    "correct_answer": "Mount Everest",
+    "correct_answer": "Oxytocin",
     "active": true
   },
   {
     "id": 5,
-    "question": "What is the smallest country in the world?",
+    "question": "What chemical does the brain release when reaching goals?",
     "incorrect_answers": [
-      "Monaco",
-      "Nauru",
-      "Tuvalu"
+      "Oxytocin",
+      "Endorphins",
+      "Serotonin"
     ],
-    "correct_answer": "Vatican City",
-    "active": false
+    "correct_answer": "Dopamine",
+    "active": true
   },
   {
     "id": 6,
-    "question": "What is the largest ocean in the world?",
+    "question": "Which activity can boost dopamine naturally?",
     "incorrect_answers": [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Arctic Ocean"
+      "Sunlight",
+      "Spicy foods",
+      "Laughter"
     ],
-    "correct_answer": "Pacific Ocean",
-    "active": false
+    "correct_answer": "Setting and achieving goals",
+    "active": true
   },
   {
     "id": 7,
-    "question": "What is the longest river in the world?",
+    "question": "Which natural activity boosts serotonin levels?",
     "incorrect_answers": [
-      "Amazon River",
-      "Yangtze River",
-      "Mississippi River"
+      "Eating spicy foods",
+      "Lifting weights",
+      "Touching someone you love"
     ],
-    "correct_answer": "Nile River",
-    "active": false
+    "correct_answer": "Sunlight exposure",
+    "active": true
   },
   {
     "id": 8,
-    "question": "What is the largest desert in the world?",
+    "question": "What neurotransmitter binds to opioid receptors in the brain?",
     "incorrect_answers": [
-      "Arabian Desert",
-      "Gobi Desert",
-      "Kalahari Desert"
+      "Dopamine",
+      "Serotonin",
+      "Oxytocin"
     ],
-    "correct_answer": "Antarctic Desert",
+    "correct_answer": "Endorphins",
     "active": true
   },
   {
     "id": 9,
-    "question": "What is the deepest part of the ocean?",
+    "question": "What does stress release that disrupts neurotransmitters?",
     "incorrect_answers": [
-      "Tonga Trench",
-      "Kermadec Trench",
-      "Philippine Trench"
+      "Dopamine",
+      "Oxytocin",
+      "Serotonin"
     ],
-    "correct_answer": "Mariana Trench",
-    "active": false
+    "correct_answer": "Cortisol",
+    "active": true
   },
   {
     "id": 10,
-    "question": "What is the largest country in the world?",
+    "question": "Which neurotransmitter stabilizes mood in the limbic system?",
     "incorrect_answers": [
-      "Canada",
-      "United States",
-      "China"
+      "Endorphins",
+      "Oxytocin",
+      "Dopamine"
     ],
-    "correct_answer": "Russia",
-    "active": false
+    "correct_answer": "Serotonin",
+    "active": true
   },
   {
     "id": 11,
-    "question": "What is the most populous country in the world?",
+    "question": "Which neurotransmitter can be boosted by exercise and laughter?",
     "incorrect_answers": [
-      "India",
-      "United States",
-      "Indonesia"
+      "Dopamine",
+      "Serotonin",
+      "Oxytocin"
     ],
-    "correct_answer": "China",
-    "active": false
+    "correct_answer": "Endorphins",
+    "active": true
   },
   {
     "id": 12,
-    "question": "What is the currency of Japan?",
+    "question": "What food is effective for boosting dopamine naturally?",
     "incorrect_answers": [
-      "Yuan",
-      "Won",
-      "Dollar"
+      "Spicy foods",
+      "High-fat processed foods",
+      "Sugary snacks"
     ],
-    "correct_answer": "Yen",
-    "active": false
+    "correct_answer": "Healthy foods",
+    "active": true
+  },
+  {
+    "id": 13,
+    "question": "What neurotransmitter is associated with physical touch and bonding?",
+    "incorrect_answers": [
+      "Dopamine",
+      "Endorphins",
+      "Serotonin"
+    ],
+    "correct_answer": "Oxytocin",
+    "active": true
+  },
+  {
+    "id": 14,
+    "question": "What activity does NOT boost oxytocin levels?",
+    "incorrect_answers": [
+      "Physical touch",
+      "Spending time with loved ones",
+      "Meditation"
+    ],
+    "correct_answer": "Exercise",
+    "active": true
+  },
+  {
+    "id": 15,
+    "question": "Which neurotransmitter is reduced when cortisol is released?",
+    "incorrect_answers": [
+      "Oxytocin",
+      "Serotonin",
+      "Endorphins"
+    ],
+    "correct_answer": "Dopamine",
+    "active": true
+  },
+  {
+    "id": 16,
+    "question": "How does stress affect serotonin levels?",
+    "incorrect_answers": [
+      "Increases them",
+      "Does not affect them",
+      "Only boosts temporarily"
+    ],
+    "correct_answer": "Interferes and causes mood swings",
+    "active": true
+  },
+  {
+    "id": 17,
+    "question": "What is a natural painkiller produced by the body?",
+    "incorrect_answers": [
+      "Cortisol",
+      "Dopamine",
+      "Serotonin"
+    ],
+    "correct_answer": "Endorphins",
+    "active": true
+  },
+  {
+    "id": 18,
+    "question": "What is the primary effect of cortisol on oxytocin?",
+    "incorrect_answers": [
+      "Boosts oxytocin production",
+      "Does not affect oxytocin",
+      "Enhances bonding feelings"
+    ],
+    "correct_answer": "Suppresses oxytocin production",
+    "active": true
+  },
+  {
+    "id": 19,
+    "question": "Which neurotransmitter helps regulate mood and emotional stability?",
+    "incorrect_answers": [
+      "Endorphins",
+      "Oxytocin",
+      "Cortisol"
+    ],
+    "correct_answer": "Serotonin",
+    "active": true
+  },
+  {
+    "id": 20,
+    "question": "What is a common nickname for oxytocin?",
+    "incorrect_answers": [
+      "Reward chemical",
+      "Natural painkiller",
+      "Mood stabilizer"
+    ],
+    "correct_answer": "Love hormone",
+    "active": true
+  },
+  {
+    "id": 21,
+    "question": "How does laughter primarily influence neurotransmitters?",
+    "incorrect_answers": [
+      "Increases serotonin production",
+      "Boosts dopamine levels",
+      "Reduces cortisol"
+    ],
+    "correct_answer": "Increases endorphins",
+    "active": true
+  },
+  {
+    "id": 22,
+    "question": "What hormone is triggered by spicy foods and relieves pain?",
+    "incorrect_answers": [
+      "Dopamine",
+      "Oxytocin",
+      "Serotonin"
+    ],
+    "correct_answer": "Endorphins",
+    "active": true
+  },
+  {
+    "id": 23,
+    "question": "Which of these emotions is most linked to serotonin deficiency?",
+    "incorrect_answers": [
+      "Overexcitement",
+      "Relaxation",
+      "Happiness"
+    ],
+    "correct_answer": "Sadness",
+    "active": true
+  },
+  {
+    "id": 24,
+    "question": "What happens to dopamine when goals are not achieved?",
+    "incorrect_answers": [
+      "It increases",
+      "It does not change",
+      "It affects serotonin instead"
+    ],
+    "correct_answer": "It decreases",
+    "active": true
+  },
+  {
+    "id": 25,
+    "question": "What system in the brain does serotonin primarily influence?",
+    "incorrect_answers": [
+      "Motor system",
+      "Occipital cortex",
+      "Cerebellum"
+    ],
+    "correct_answer": "Limbic system",
+    "active": true
+  },
+  {
+    "id": 26,
+    "question": "How does cortisol impact mood?",
+    "incorrect_answers": [
+      "Makes it stable",
+      "Boosts serotonin",
+      "Increases oxytocin"
+    ],
+    "correct_answer": "Causes mood swings",
+    "active": true
+  },
+  {
+    "id": 27,
+    "question": "What neurotransmitter is responsible for creating a sense of connection?",
+    "incorrect_answers": [
+      "Dopamine",
+      "Endorphins",
+      "Serotonin"
+    ],
+    "correct_answer": "Oxytocin",
+    "active": true
+  },
+  {
+    "id": 28,
+    "question": "What neurotransmitter is most affected by goal-setting activities?",
+    "incorrect_answers": [
+      "Oxytocin",
+      "Serotonin",
+      "Endorphins"
+    ],
+    "correct_answer": "Dopamine",
+    "active": true
+  },
+  {
+    "id": 29,
+    "question": "What natural activity helps boost serotonin and stabilizes mood?",
+    "incorrect_answers": [
+      "Laughter",
+      "Touching someone you love",
+      "Eating spicy foods"
+    ],
+    "correct_answer": "Meditation",
+    "active": true
+  },
+  {
+    "id": 30,
+    "question": "What happens to neurotransmitters during prolonged stress?",
+    "incorrect_answers": [
+      "Oxytocin production increases",
+      "Dopamine levels are stable",
+      "Serotonin enhances mood regulation"
+    ],
+    "correct_answer": "Cortisol disrupts neurotransmitter balance",
+    "active": true
   }
 ]

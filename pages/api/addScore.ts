@@ -33,7 +33,7 @@ export default function handler(req: NextApiRequest, res: NextApiResponse) {
     }
 
     // Save the updated scores array back to the file
-    fs.writeFileSync(filePath, JSON.stringify(scores, null, 2));
+    fs.writeFileSync(filePath, JSON.stringify(scores, null, 2));``
     res.status(200).json({ message: 'Score updated successfully' });
   } catch (error) {
     console.error('Failed to update score:', error);
